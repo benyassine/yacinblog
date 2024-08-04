@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on ياسين</title>
+    <link>http://localhost:1313/tags/go/</link>
+    <description>Recent content in Go on ياسين</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>تعلم لغة البرمجة Go</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>🔖 لغة البرمجة Go أكره الوراثة الكلاس و كل تلك الأمور التي أجدها معقدة بالنسبة لي و لدي العديد من التجارب السيئة معها. ففي كل مرة أتعلم لغة برمجة أجد نفسي محبطا بسبب كلاس , وراثة &amp;hellip;. رغم انها بسيطة لكن لا أحب التعامل مع هذه الأمور كانت البداية مع لغة PHP كلعديد من من دخلو عالم برمجة تطبيقات الويب و كانت و لا زالت الرائدة و الأكثر إنتشارا رغم أن العديد لا يرى أنها الأفضل في بناء تطبيقات الويب لكن سرعان ما بدأت لعنة التخبط بين اللغات البرمجة فمن الفيل سلكت درب الجوهرة رةبي بعد إطلاق مجتمع Arabia.</description>
+    </item>
+  </channel>
+</rss>
