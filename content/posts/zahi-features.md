@@ -2,7 +2,7 @@
 title: "مميزات قالب زاهي"
 date: 2024-04-06
 tags: ["Docs", "Featuers"]
-pinned: true
+pinned: flase
 ---
 
 
