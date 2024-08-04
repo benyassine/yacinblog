@@ -1,4 +1,4 @@
 ---
 title: "المدونه"
-description: ""
+description: "أفكار, مشاريع و أشياء "
 ---
