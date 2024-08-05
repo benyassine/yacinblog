@@ -22,6 +22,8 @@ url = "/posts"
 weight = 10
 
 
+
+
 [params]
 github = "https://www.github.com/"
 mail = "mailto:ben.yacin@gmail.com"
@@ -29,5 +31,3 @@ site = "https://yacin.org/"
 
 
 [services]
-[services.disqus]
-shortname = 'foobar'
