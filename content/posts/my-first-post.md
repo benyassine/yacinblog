@@ -1,6 +1,5 @@
-
 ---
-title: تعلم لغة البرمجة Go
+title: "تعلم لغة البرمجة Go"
 date: 2024-08-02
 tags: ["Go", "Featuers"]
 pinned: false
