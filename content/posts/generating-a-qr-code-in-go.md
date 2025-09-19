@@ -39,7 +39,7 @@ func main() {
   var png []byte
   png, err := qrcode.Encode("https://example.org", qrcode.Medium, 256)
 ```
-أو المزيد من التخصيص مثل التحكم في الألوان عبر إستخذام الوظائف المتاحة في الكتبة المستعملة 
+أو المزيد من التخصيص مثل التحكم في الألوان عبر استخدام الوظائف المتاحة في الكتبة استخدام 
 
 ```
   err := qrcode.WriteColorFile("https://example.org", qrcode.Medium, 256, color.Black, color.White, "qr.png")
