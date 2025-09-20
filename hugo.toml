@@ -34,4 +34,4 @@ defaultContentLanguage = "ar"
 
                                       [services]
                                         [services.googleAnalytics]
-                                            id = "G-499322658"    # ضع هنا Measurement ID من GA4
+                                            id = "G-0B6Z8WBZE"    # ضع هنا Measurement ID من GA4
