@@ -39,13 +39,13 @@
 <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:image" content="{{ with .Params.images }}{{ index . 0 }}{{ else }}https://yacin.org/cover.jpg{{ end }}">
+<meta property="og:image" content="{{ with .Params.images }}{{ . | absURL }}{{ else }}{{ "images/default.jpg" | absURL }}{{ end }}">
 
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}">
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
-<meta name="twitter:image" content="{{ with .Params.images }}{{ index . 0 }}{{ else }}https://yacin.org/cover.jpg{{ end }}">
+<meta name="twitter:image" content="{{ with .Params.images }}{{ index . 0 }}{{ end }}">
 
 
 	<link rel="stylesheet" href="/css/output.css" type="text/css" media="all" />
