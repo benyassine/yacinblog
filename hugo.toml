@@ -3,7 +3,7 @@ title = "ياسين"
 theme = "zahi"
 languageCode = "ar"
 defaultContentLanguage = "ar"
-enableRobotsTXT: true
+enableRobotsTXT = true
 disqusShortname ="ycinorg_disqus"
 
 [taxonomies]
