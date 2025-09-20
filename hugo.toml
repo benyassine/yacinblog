@@ -3,6 +3,8 @@ title = "ياسين"
 theme = "zahi"
 languageCode = "ar"
 defaultContentLanguage = "ar"
+enableRobotsTXT: true
+disqusShortname ="ycinorg_disqus"
 
 [taxonomies]
   tag = "tags"
