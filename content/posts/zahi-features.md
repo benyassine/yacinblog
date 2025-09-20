@@ -1,6 +1,7 @@
 ---
 title: "مميزات قالب زاهي"
 date: 2024-04-06
+description: "أول مقال"
 tags: ["Docs", "Featuers"]
 pinned: flase
 images: ["/images/perf.png"]
