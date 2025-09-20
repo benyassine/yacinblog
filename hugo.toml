@@ -5,29 +5,33 @@ languageCode = "ar"
 defaultContentLanguage = "ar"
 
 [taxonomies]
-tag = "tags"
+  tag = "tags"
 
-[menu]
-[[menu.main]]
-identifier = "الرئيسية"
-name = "الرئيسية"
-url = "/"
-weight = 10
+  [menu]
+    [[menu.main]]
+      identifier = "الرئيسية"
+        name = "الرئيسية"
+          url = "/"
+            weight = 10
 
+              [[menu.main]]
+                identifier = "المقالات"
+                  name = "المدونه"
+                    url = "/posts"
+                      weight = 20
 
-[[menu.main]]
-identifier = "المقالات"
-name = "المدونه"
-url = "/posts"
-weight = 10
+                      [params]
+                        github = "https://www.github.com/"
+                          mail = "mailto:ben.yacin@gmail.com"
+                            site = "https://yacin.org/"
+                              description = "مدونة ياسين: مقالات تقنية وتربوية"
+                                keywords = ["مدونة", "تقنية", "تربية", "ياسين"]
 
+                                [sitemap]
+                                  changefreq = "weekly"    # يمكنك تغييره إلى daily إذا كان لديك محتوى يومي
+                                    priority = 0.5
+                                      filename = "sitemap.xml"
 
-
-
-[params]
-github = "https://www.github.com/"
-mail = "mailto:ben.yacin@gmail.com"
-site = "https://yacin.org/"
-
-
-[services]
+                                      [services]
+                                        [services.googleAnalytics]
+                                            id = "G-499322658"    # ضع هنا Measurement ID من GA4
