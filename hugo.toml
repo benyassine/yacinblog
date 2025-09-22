@@ -4,7 +4,6 @@ theme = "zahi"
 languageCode = "ar"
 defaultContentLanguage = "ar"
 enableRobotsTXT = true
-disqusShortname ="ycinorg"
 
 [taxonomies]
   tag = "tags"
@@ -35,5 +34,7 @@ disqusShortname ="ycinorg"
                                       filename = "sitemap.xml"
 
                                       [services]
+                                        [services.disqus]
+                                          shortname = "yacinorg"
                                         [services.googleAnalytics]
                                             id = "G-0B6Z8WBZE"    # ضع هنا Measurement ID من GA4
