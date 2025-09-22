@@ -4,7 +4,7 @@ theme = "zahi"
 languageCode = "ar"
 defaultContentLanguage = "ar"
 enableRobotsTXT = true
-disqusShortname ="ycinorg_disqus"
+disqusShortname ="ycinorg"
 
 [taxonomies]
   tag = "tags"
