@@ -2,6 +2,7 @@
 title: "توليد رمز الإستجابة السريعة QR Code في لغة Go"
 date: 2025-09-19
 tags: ["Go", "تعلم", "مقدمة عن Go","qrcode"]
+description: "شرح التعامل مع مكتبة توليد رموز الاستجابة السريعة qr codes في لغة go "
 images: ["/images/qr-code.png"]
 cover: "/images/qr-code.png"
 pinned: true
