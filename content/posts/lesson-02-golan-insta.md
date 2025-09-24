@@ -1,6 +1,8 @@
 ---
 title: " تنصيب لغة جو (go) و إعداد بيئة العمل"
 date: 2025-08-02
+description: "اعداد بيئة العمل في لغة البرمجة go "
+images: ["/images/default.jpg"]
 tags: ["Go", "تعلم", "مقدمة عن Go"]
 pinned: false
 ---
