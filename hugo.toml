@@ -33,7 +33,7 @@ enableRobotsTXT = true
   description = "مدونة ياسين: مقالات تقنية وتربوية"
   keywords = ["مدونة", "تقنية", "تربية", "ياسين"]
   defaultImage = "/images/default.jpg"
-  yandexMetrica = "123456789"
+  yandexMetrica = "104273970"
 [sitemap]
   changefreq = "weekly"    # يمكنك تغييره إلى daily إذا كان لديك محتوى يومي
   priority = 0.5
