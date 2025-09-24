@@ -5,7 +5,7 @@ description: "أول مقال"
 tags: ["Docs", "Featuers"]
 pinned: flase
 images: ["/images/perf.png"]
-cover: ["/images/perf.png"]
+cover: "/images/perf.png"
 ---
 
 
