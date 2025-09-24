@@ -1,6 +1,8 @@
 ---
 title: "ما هي لغة Go ولماذا نتعلمها؟"
 date: 2025-08-02
+description: "مقدمة حولة لغة البرمجة go "
+images: ["/images/default.jpg"]
 tags: ["Go", "تعلم", "مقدمة عن Go"]
 pinned: false
 ---
