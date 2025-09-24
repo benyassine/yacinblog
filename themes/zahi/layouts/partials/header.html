@@ -44,7 +44,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}">
 	<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
-	<meta name="twitter:image" content="{{ with .Params.images }}{{ index . 0 }}{{ end }}">
+	<meta name="twitter:image" content="{{ index .Params.images 0 | absURL }}">
 	
 	<link rel="stylesheet" href="/css/output.css" type="text/css" media="all" />
 	{{ with .OutputFormats.Get "rss" -}}
