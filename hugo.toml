@@ -32,7 +32,7 @@ enableRobotsTXT = true
   site = "https://yacin.org/"
   description = "مدونة ياسين: مقالات تقنية وتربوية"
   keywords = ["مدونة", "تقنية", "تربية", "ياسين"]
-
+  defaultImage = "/images/default.jpg"
 [sitemap]
   changefreq = "weekly"    # يمكنك تغييره إلى daily إذا كان لديك محتوى يومي
   priority = 0.5
