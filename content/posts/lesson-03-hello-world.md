@@ -1,6 +1,8 @@
 ---
 title: "الدرس 3: كتابة أول برنامج Go (Hello World)"
 date: 2025-08-02
+description: "كتابة اول برنامج لك في لغة go"
+images: ["/images/default.jpg"]
 tags: ["Go", "تعلم", "مقدمة عن Go"]
 pinned: false
 ---
