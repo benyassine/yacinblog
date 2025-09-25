@@ -1,6 +1,8 @@
 ---
 title: "4: هيكل مشروع Go – الملفات والمجلدات"
 date: 2025-08-02
+description: " يهدف هذا الدرس لاكتشاف و فهم هيكلة و تنظيم ملفات مشروع مبني بلغة go"
+images: ["/images/default.jpg"]
 tags: ["Go", "تعلم", "مقدمة عن Go"]
 pinned: false
 ---
