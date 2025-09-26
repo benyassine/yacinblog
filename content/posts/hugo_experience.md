@@ -5,7 +5,6 @@ description: "كيف أنشأت مدونتي باستخدام Hugo وما هي �
 tags: ["Hugo", "تجربتي", "مواقع ساكنة"]
 images: ["/images/hugo-exp.png"]
 cover: "/images/hugo-exp.png"
-draft: true
 ---
 
 # تجربتي مع Hugo 
