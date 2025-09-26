@@ -3,8 +3,8 @@ title: "تجربتي مع Hugo"
 date: 2025-09-26T16:00:00+02:00
 description: "كيف أنشأت مدونتي باستخدام Hugo وما هي التحديات والنتائج التي واجهتها"
 tags: ["Hugo", "تجربتي", "مواقع ساكنة"]
-images: ["/images/hugo-exp.jpg"]
-cover: "/images/hugo-exp.jpg"
+images: ["/images/hugo-exp.png"]
+cover: "/images/hugo-exp.png"
 draft: true
 ---
 
