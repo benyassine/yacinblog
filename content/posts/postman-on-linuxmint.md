@@ -5,7 +5,7 @@ tags: ["Go", "تعلم", "Postman","api"]
 description: "في المقالة شرح و تجربة تثبيت برنامج postman على توزيعة لينكس منت  "
 images: ["/images/postman.png"]
 cover: "/images/postman.png"
-pinned: true
+pinned: false
 ---
 
 # شرح تثبيت Postman في توزيعة لينيكس منت
