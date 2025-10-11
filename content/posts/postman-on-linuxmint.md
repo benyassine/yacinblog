@@ -2,16 +2,18 @@
 title: "تثبيت Postman في توزيعة لينكس منت"
 date: 2025-10-11
 tags: ["Go", "تعلم", "Postman","api"]
-description: "في المقالة شرح و تجربة تثبيت برنامج postman على توزيعة لينكس منت  "
+description: "في المقالة شرح و تجربة تثبيت برنامج postman على توزيعة لينكس منت "
 images: ["/images/postman.png"]
 cover: "/images/postman.png"
 pinned: false
 ---
 
 # شرح تثبيت Postman في توزيعة لينيكس منت
+
 [Postman](https://www.postman.com/) يعد من بين أفضل التطبيقات المساعدة في بناء الواجهات البرمجية (APIs) و إختبارها و سنتطرق في هذا المنشور إلى تجربتي في تثبيته على توزيعة منت دون سناب.
 
 ## 1.تحميل البرنامج عبر الطرفية (terminal):
+
 نفذ هذا الكود في الطرفية للحصول على آخر إصدار من بوستمان
 ```
 wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
@@ -19,6 +21,7 @@ wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
 
 
 ## 2. فك ضغط الملفات:
+
 دائما عبر الطرفية نقوم بفك ضغط الملف الذي قمنا بتحميله
 
 ```
